@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Çocukluğunda oyuncak telsizler ile başlayan serüvenine Amatör Telsizcilik ile devam ediyor. Öğrenci ve merak ettiği her şeyi öğrenmeye öğrendiği şeyleri ise merak edenler ile paylaşmaya çalışıyor.
