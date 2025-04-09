@@ -5,7 +5,7 @@ date: 2025-04-09 00:00:00 +0300
 layout: post
 toc: true
 categories: [El Telsizi]
-tags: [Amatör Telsizcilik]
+tags: [Kenwood, El Telsizi, Amatör Telsiz, APRS]
 ---
 
 Yeni başlayan bir amatör telsizci olarak önce Baofeng UV-82, ardından Quansheng UV-K6 modelini kullandım. APRS'ye olan ilgim nedeniyle bu özelliğe sahip yeni bir telsiz arayışına girdim. Karşılaştığım bazı sorunlar sonrasında çevremdeki tecrübeli amatör telsizcilere danıştım. "Oyuncak telsizlerle bu işler olmaz" yanıtlarını almam üzerine ciddi bir telsiz alma kararı verdim. Yaesu FT5D ile Kenwood TH-D75 arasında kaldım ve tercihimi HF dinleme özelliği ile APRS desteğine sahip ilk marka olması nedeniyle Kenwood TH-D75'ten yana kullandım.
